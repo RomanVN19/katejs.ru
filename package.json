@@ -1,0 +1,19 @@
+{
+  "name": "katejs.ru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romannep/katejs.ru.git"
+  },
+  "author": "Roman Nep <neproman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romannep/katejs.ru/issues"
+  },
+  "homepage": "https://github.com/romannep/katejs.ru#readme"
+}
